@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "InessaDobbelaere-clone-clone",
+    "name": "InessaDobbelaere-clone-clone-clone",
     "currentPage": "TEST.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 111,
@@ -16,13 +16,13 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Asap",
         "display1Size": 4.25,
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Open Sans",
         "display7Size": 1,
         "display4Font": "Rubik",
         "display4Size": 1,
@@ -43,7 +43,9 @@
     "favicon": "",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110250972-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110250972-1');\r\n</script>\r\n\r\n",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "TEST.html": {
@@ -91,7 +93,8 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             ".mbr-text P": {
               "text-align": "left",
@@ -99,7 +102,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Student textile design at Luca school of arts, Ghent.&nbsp;</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student textile design at Luca school of arts, Ghent.&nbsp;</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qBloVESXZE",
           "_anchor": "content1-s",
           "_protectedParams": [],
@@ -769,6 +772,9 @@
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#767676"
+            },
+            "I": {
+              "color": "#000000"
             }
           },
           "_name": "content4",
@@ -789,7 +795,8 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_name": "content1",
