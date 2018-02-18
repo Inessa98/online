@@ -1284,7 +1284,7 @@ body {
 }
 .cid-qE0Bt26PWy {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qE0Bt26PWy .mbr-slider .carousel-control {
@@ -1325,9 +1325,14 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qJVlSFWG2w {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #0036ff;
+}
 .cid-qE0Dfivtsq {
-  padding-top: 120px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qE0Dfivtsq .mbr-text,
@@ -1342,7 +1347,7 @@ body {
 }
 .cid-qE0DhogF0U {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qE0DhogF0U .mbr-slider .carousel-control {
