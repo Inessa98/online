@@ -1257,7 +1257,7 @@ body {
   min-height: 100vh;
 }
 .cid-qE0y7znGH2 {
-  background-image: url("../../../assets/images/dsc0822.jpg");
+  background-image: url("../../../assets/images/scan-2018-3-26-20.05.47.jpg");
 }
 .cid-qE0y7znGH2 H1 {
   color: #ffffff;
@@ -1275,6 +1275,10 @@ body {
 .cid-qN9FCVE1QY .mbr-text,
 .cid-qN9FCVE1QY blockquote {
   color: #767676;
+}
+.cid-qN9FCVE1QY .mbr-text {
+  color: #232323;
+  text-align: left;
 }
 .cid-qN9GUrYAU6 {
   padding-top: 0px;
@@ -1322,11 +1326,14 @@ body {
 .cid-qN9FEh5oFB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qN9FEh5oFB .mbr-text,
 .cid-qN9FEh5oFB blockquote {
   color: #767676;
+}
+.cid-qN9FEh5oFB .mbr-text {
+  color: #232323;
 }
 .cid-qN9GXwKKkt {
   padding-top: 0px;
@@ -1432,7 +1439,7 @@ body {
 .cid-qE0Dfivtsq {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qE0Dfivtsq .mbr-text,
 .cid-qE0Dfivtsq blockquote {
@@ -1445,7 +1452,7 @@ body {
   color: #000000;
 }
 .cid-qE0Dfivtsq .mbr-text P {
-  color: #767676;
+  color: #232323;
 }
 .cid-qE0DhogF0U {
   padding-top: 0px;
