@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InessaDobbelaere",
-    "currentPage": "page1.html",
+    "currentPage": "Online.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 160,
     "versionPublish": "4.6.7",
@@ -695,7 +695,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"page1.html#content1-4b\" data-toolbar=\"-mbrBtnMove\">TRADITIE</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"page1.html#content1-4d\" data-toolbar=\"-mbrBtnMove\">'HOW BEAUTIFUL IT IS <br>AND HOW EASILY IT <br>CAN BE BROKEN'</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"page1.html#content1-4b\" data-toolbar=\"-mbrBtnMove\">TRADITIE</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"page1.html#content1-4d\" data-toolbar=\"-mbrBtnMove\">'HOW BEAUTIFUL IT IS <br>AND HOW EASILY IT <br>CAN BE BROKEN'</a>  ",
                 "overlayOpacity": "0.1"
               },
               {
